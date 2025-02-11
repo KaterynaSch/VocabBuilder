@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvocab_builder=self.webpackChunkvocab_builder||[]).push([[956],{956:(e,r,u)=>{u.r(r),u.d(r,{default:()=>n});var a=u(579);function n(){return(0,a.jsx)("p",{children:"Training Page"})}}}]);
+//# sourceMappingURL=956.6b01b941.chunk.js.map

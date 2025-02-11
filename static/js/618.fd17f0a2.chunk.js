@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvocab_builder=self.webpackChunkvocab_builder||[]).push([[618],{618:(e,r,u)=>{u.r(r),u.d(r,{default:()=>c});var a=u(579);function c(){return(0,a.jsx)("p",{children:"Dictionary page"})}}}]);
+//# sourceMappingURL=618.fd17f0a2.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/765.06159469.chunk.js","mappings":"uJAAe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,KAAAC,SAAG,cACZ,C","sources":["pages/LoginPage.tsx"],"sourcesContent":["export default function Login() {\r\n  return <p>Login page</p>;\r\n}\r\n"],"names":["Login","_jsx","children"],"sourceRoot":""}
